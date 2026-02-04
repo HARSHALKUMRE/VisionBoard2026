@@ -59,6 +59,7 @@ vision-2026/
 
 ### 1) Clone
 ```bash
+git clone https://github.com/HARSHALKUMRE/VisionBoard2026
 cd vision-2026
 ````
 
